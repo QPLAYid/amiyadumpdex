@@ -1,0 +1,2 @@
+# amiyadumpdex 
+use termux
